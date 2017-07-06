@@ -11,7 +11,79 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7a981a102db53b22ce69ca6c6abfda06/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "file": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/cac2d454b8e7f6a7f7ff40fdaecf71ed/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/lib/build/intermediates/res/merged/debug/values-h720dp-v13/values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/cac2d454b8e7f6a7f7ff40fdaecf71ed/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-lib/lib/build/intermediates/res/merged/debug/values-h720dp-v13/values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/cac2d454b8e7f6a7f7ff40fdaecf71ed/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/lib/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/home/ibrahim/.android/build-cache/7f486ef1b505904317233bdc557f98cf2a18868c/output/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

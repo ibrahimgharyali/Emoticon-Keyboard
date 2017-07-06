@@ -7,6 +7,7 @@ import github.ibrahimgharyali.emojicon.EmojiconsPopup.OnEmojiconBackspaceClicked
 import github.ibrahimgharyali.emojicon.EmojiconsPopup.OnSoftKeyboardOpenCloseListener;
 import github.ibrahimgharyali.emojicon.emoji.Emojicon;
 
+import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;

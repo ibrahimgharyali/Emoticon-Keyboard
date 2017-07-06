@@ -10,17 +10,44 @@ android {
         vectorDrawables.useSupportLibrary = true
 
     }
-    buildTypes {
+    /*signingConfigs {
         release {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            keyAlias 'emoji'
+            keyPassword '123456'
+            storeFile file('keystore/emoji_keyboard.jks')
+            storePassword '123456'
         }
-    }
-    productFlavors {
-    }
+        *//*debug {
+            keyAlias 'androiddebugkey'
+            keyPassword 'android'
+            storeFile file('keystore/debug.keystore')
+            storePassword 'android'
+        }*//*
+    }*/
+//    buildTypes {
+//        release {
+//            debuggable false
+//            minifyEnabled true
+//            shrinkResources true
+//            useProguard true
+//            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+//            signingConfig signingConfigs.release
+//        }
+//        debug{
+//            debuggable true
+//            minifyEnabled true
+////            shrinkResources true
+//            useProguard false
+//            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+//            signingConfig signingConfigs.debug
+//        }
+//    }
+
     packagingOptions {
         exclude 'typedefs.txt'
     }
+
+
 }
 
 dependencies {

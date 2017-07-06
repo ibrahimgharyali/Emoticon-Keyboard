@@ -5,40 +5,110 @@
     build-mode="COLD"
     density="xxhdpi"
     format="10"
-    plugin-version="3.0.0-alpha2"
-    timestamp="1496387438907"
-    token="3914003107382902017"
+    ir-eligibility="COMPATIBLE"
+    plugin-version="3.0.0-alpha3"
+    timestamp="1496821920770"
+    token="110205412110074225"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="189" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="145" />
     <task
         name="verifier"
-        duration="0" />
+        duration="11" />
 
+    <artifact
+        location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
     <artifact
         location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/outputs/apk/debug/example-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1496387041316"
+        timestamp="1496821624777"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
+            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/example/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/example/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/example/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/example/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/example/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/example/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/example/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/example/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/example/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/example/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/example/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/example/build/outputs/apk/debug/example-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1496821920770"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
             location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
             location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_2.apk"
@@ -47,31 +117,29 @@
             location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
+            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
             location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
             location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
+            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
             location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/outputs/apk/debug/example-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1496387438907"
-        verifier="COLD_SWAP_REQUESTED" >
+            location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
         <artifact
             location="/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/outputs/apk/debug/example-debug.apk"
             type="SPLIT_MAIN" />
