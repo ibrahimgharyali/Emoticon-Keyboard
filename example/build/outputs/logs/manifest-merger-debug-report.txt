@@ -17,19 +17,19 @@ ADDED from /home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/exampl
 		ADDED from /home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/src/main/AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from /home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/src/main/AndroidManifest.xml:7:5-9:41
-MERGED from [Emoticon-Keyboard-demo:lib:unspecified] /home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/lib/build/intermediates/bundles/default/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/ibrahim/.android/build-cache/7f486ef1b505904317233bdc557f98cf2a18868c/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/ibrahim/.android/build-cache/e3a450b0f8e55c97a746e3af57c9954185da7cbf/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/ibrahim/.android/build-cache/91ea306c46db80afb9ecf584365e1cb2cf401b55/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:25.3.1] /home/ibrahim/.android/build-cache/0dd48a3a534011413aa4f28ce200fab3871b51c1/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] /home/ibrahim/.android/build-cache/004a81c36d62d3ce554bfa2b6233b7ec8dc2fc36/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/ibrahim/.android/build-cache/30998b290fc89eb6a611cfb4133c9341ba601e87/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/ibrahim/.android/build-cache/e9b9293550b902f309eeb6805f69e653c881ce95/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/ibrahim/.android/build-cache/e8f67d622799e6b504fca45ce404d191e73e9f31/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] /home/ibrahim/.android/build-cache/0f18b233ecbd8c5b9b551b21c2bf0648ee1330ce/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.ibrahimgharyali:lib:unspecified] /home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/lib/build/intermediates/bundles/default/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ibrahim/.android/build-cache/1b5c62383da29f37752302401543508af781a3f3/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ibrahim/.android/build-cache/7a46d9d908725785c62853d229296ba44a398d18/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ibrahim/.android/build-cache/7d901f30d856bd8e4fc650dafaa96e6396251ae3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ibrahim/.android/build-cache/1759f4d0838930f812bd8fb680683a58cd59c3a9/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ibrahim/.android/build-cache/6bf6de40fcafd50771617d449d6413d415eb38fe/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ibrahim/.android/build-cache/0010334d783c198b2dda5ed9ef48ce49c8258e6c/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ibrahim/.android/build-cache/570e29133d9dfced4f4c01d21bfb2a51244eb459/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ibrahim/.android/build-cache/7afc2dd4c854f7541144e9b4869959685e6e855a/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ibrahim/.android/build-cache/b27c70e8474cd0c76be72be42c54c98c98fee196/output/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ibrahim/.android/build-cache/c11ff08907f14d5a4a6924e1e4462fd6da37e0ba/output/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/ibrahim/.android/build-cache/7f486ef1b505904317233bdc557f98cf2a18868c/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ibrahim/.android/build-cache/1b5c62383da29f37752302401543508af781a3f3/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		ADDED from /home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/src/main/AndroidManifest.xml:9:9-38
 		INJECTED from /home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/src/main/AndroidManifest.xml
@@ -52,16 +52,16 @@ ADDED from /home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/exampl
 		ADDED from /home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/src/main/AndroidManifest.xml:13:22-77
 application
 ADDED from /home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/src/main/AndroidManifest.xml:15:5-31:19
-MERGED from [Emoticon-Keyboard-demo:lib:unspecified] /home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/lib/build/intermediates/bundles/default/AndroidManifest.xml:9:5-13:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/ibrahim/.android/build-cache/7f486ef1b505904317233bdc557f98cf2a18868c/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/ibrahim/.android/build-cache/e3a450b0f8e55c97a746e3af57c9954185da7cbf/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/ibrahim/.android/build-cache/91ea306c46db80afb9ecf584365e1cb2cf401b55/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] /home/ibrahim/.android/build-cache/0dd48a3a534011413aa4f28ce200fab3871b51c1/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /home/ibrahim/.android/build-cache/004a81c36d62d3ce554bfa2b6233b7ec8dc2fc36/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/ibrahim/.android/build-cache/30998b290fc89eb6a611cfb4133c9341ba601e87/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/ibrahim/.android/build-cache/e9b9293550b902f309eeb6805f69e653c881ce95/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/ibrahim/.android/build-cache/e8f67d622799e6b504fca45ce404d191e73e9f31/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /home/ibrahim/.android/build-cache/0f18b233ecbd8c5b9b551b21c2bf0648ee1330ce/output/AndroidManifest.xml:29:5-20
+MERGED from [com.github.ibrahimgharyali:lib:unspecified] /home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/lib/build/intermediates/bundles/default/AndroidManifest.xml:9:5-13:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ibrahim/.android/build-cache/1b5c62383da29f37752302401543508af781a3f3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ibrahim/.android/build-cache/7a46d9d908725785c62853d229296ba44a398d18/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ibrahim/.android/build-cache/7d901f30d856bd8e4fc650dafaa96e6396251ae3/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ibrahim/.android/build-cache/1759f4d0838930f812bd8fb680683a58cd59c3a9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ibrahim/.android/build-cache/6bf6de40fcafd50771617d449d6413d415eb38fe/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ibrahim/.android/build-cache/0010334d783c198b2dda5ed9ef48ce49c8258e6c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ibrahim/.android/build-cache/570e29133d9dfced4f4c01d21bfb2a51244eb459/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ibrahim/.android/build-cache/7afc2dd4c854f7541144e9b4869959685e6e855a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ibrahim/.android/build-cache/b27c70e8474cd0c76be72be42c54c98c98fee196/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ibrahim/.android/build-cache/c11ff08907f14d5a4a6924e1e4462fd6da37e0ba/output/AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from /home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/src/main/AndroidManifest.xml:18:9-41
@@ -96,16 +96,16 @@ ADDED from /home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/exampl
 	android:name
 		ADDED from /home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/src/main/AndroidManifest.xml:30:19-60
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] /home/ibrahim/.android/build-cache/7f486ef1b505904317233bdc557f98cf2a18868c/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/ibrahim/.android/build-cache/e3a450b0f8e55c97a746e3af57c9954185da7cbf/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/ibrahim/.android/build-cache/91ea306c46db80afb9ecf584365e1cb2cf401b55/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] /home/ibrahim/.android/build-cache/0dd48a3a534011413aa4f28ce200fab3871b51c1/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] /home/ibrahim/.android/build-cache/004a81c36d62d3ce554bfa2b6233b7ec8dc2fc36/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/ibrahim/.android/build-cache/30998b290fc89eb6a611cfb4133c9341ba601e87/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/ibrahim/.android/build-cache/e9b9293550b902f309eeb6805f69e653c881ce95/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/ibrahim/.android/build-cache/e8f67d622799e6b504fca45ce404d191e73e9f31/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] /home/ibrahim/.android/build-cache/0f18b233ecbd8c5b9b551b21c2bf0648ee1330ce/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ibrahim/.android/build-cache/1b5c62383da29f37752302401543508af781a3f3/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ibrahim/.android/build-cache/7a46d9d908725785c62853d229296ba44a398d18/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ibrahim/.android/build-cache/7d901f30d856bd8e4fc650dafaa96e6396251ae3/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ibrahim/.android/build-cache/1759f4d0838930f812bd8fb680683a58cd59c3a9/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ibrahim/.android/build-cache/6bf6de40fcafd50771617d449d6413d415eb38fe/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ibrahim/.android/build-cache/0010334d783c198b2dda5ed9ef48ce49c8258e6c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ibrahim/.android/build-cache/570e29133d9dfced4f4c01d21bfb2a51244eb459/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ibrahim/.android/build-cache/7afc2dd4c854f7541144e9b4869959685e6e855a/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ibrahim/.android/build-cache/b27c70e8474cd0c76be72be42c54c98c98fee196/output/AndroidManifest.xml:25:5-27:41
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/ibrahim/.android/build-cache/7f486ef1b505904317233bdc557f98cf2a18868c/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ibrahim/.android/build-cache/1b5c62383da29f37752302401543508af781a3f3/output/AndroidManifest.xml:27:9-38
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/ibrahim/.android/build-cache/7f486ef1b505904317233bdc557f98cf2a18868c/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ibrahim/.android/build-cache/1b5c62383da29f37752302401543508af781a3f3/output/AndroidManifest.xml:26:9-47

@@ -1,7 +1,4 @@
-#Wed Jun 07 13:22:14 IST 2017
-base.0=/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/transforms/dexMerger/debug/21
-renamed.1=classes2.dex
+#Fri Jul 07 11:44:38 IST 2017
+base.0=/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.1=/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/transforms/dexMerger/debug/22/classes.dex
-base.1=/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/transforms/dexMerger/debug/22
-file.0=/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/transforms/dexMerger/debug/21/classes.dex
+file.0=/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

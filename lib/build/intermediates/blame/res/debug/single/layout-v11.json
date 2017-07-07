@@ -1,7 +1,7 @@
 [
     {
         "merged": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/lib/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/home/ibrahim/.android/build-cache/7f486ef1b505904317233bdc557f98cf2a18868c/output/res/layout-v11/notification_template_big_media.xml"
+        "source": "/home/ibrahim/.android/build-cache/1b5c62383da29f37752302401543508af781a3f3/output/res/layout-v11/notification_template_big_media.xml"
     },
     {
         "merged": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/lib/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
@@ -25,15 +25,15 @@
     },
     {
         "merged": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/lib/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
-        "source": "/home/ibrahim/.android/build-cache/7f486ef1b505904317233bdc557f98cf2a18868c/output/res/layout-v11/notification_media_action.xml"
+        "source": "/home/ibrahim/.android/build-cache/1b5c62383da29f37752302401543508af781a3f3/output/res/layout-v11/notification_media_action.xml"
     },
     {
         "merged": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/lib/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/home/ibrahim/.android/build-cache/7f486ef1b505904317233bdc557f98cf2a18868c/output/res/layout-v11/notification_template_big_media_narrow.xml"
+        "source": "/home/ibrahim/.android/build-cache/1b5c62383da29f37752302401543508af781a3f3/output/res/layout-v11/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/lib/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/home/ibrahim/.android/build-cache/7f486ef1b505904317233bdc557f98cf2a18868c/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+        "source": "/home/ibrahim/.android/build-cache/1b5c62383da29f37752302401543508af781a3f3/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/lib/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
@@ -41,7 +41,7 @@
     },
     {
         "merged": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/lib/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
-        "source": "/home/ibrahim/.android/build-cache/7f486ef1b505904317233bdc557f98cf2a18868c/output/res/layout-v11/notification_template_big_media_custom.xml"
+        "source": "/home/ibrahim/.android/build-cache/1b5c62383da29f37752302401543508af781a3f3/output/res/layout-v11/notification_template_big_media_custom.xml"
     },
     {
         "merged": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/lib/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
@@ -53,7 +53,7 @@
     },
     {
         "merged": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/lib/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/home/ibrahim/.android/build-cache/7f486ef1b505904317233bdc557f98cf2a18868c/output/res/layout-v11/notification_media_cancel_action.xml"
+        "source": "/home/ibrahim/.android/build-cache/1b5c62383da29f37752302401543508af781a3f3/output/res/layout-v11/notification_media_cancel_action.xml"
     },
     {
         "merged": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-lib/lib/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
