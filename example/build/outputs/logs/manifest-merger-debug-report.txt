@@ -52,7 +52,7 @@ ADDED from /home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/exampl
 		ADDED from /home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/src/main/AndroidManifest.xml:13:22-77
 application
 ADDED from /home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/src/main/AndroidManifest.xml:15:5-31:19
-MERGED from [com.github.ibrahimgharyali:lib:unspecified] /home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/lib/build/intermediates/bundles/default/AndroidManifest.xml:9:5-13:19
+MERGED from [com.github.ibrahimgharyali:lib:unspecified] /home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/lib/build/intermediates/bundles/default/AndroidManifest.xml:9:5-12:19
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ibrahim/.android/build-cache/1b5c62383da29f37752302401543508af781a3f3/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ibrahim/.android/build-cache/7a46d9d908725785c62853d229296ba44a398d18/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ibrahim/.android/build-cache/7d901f30d856bd8e4fc650dafaa96e6396251ae3/output/AndroidManifest.xml:26:5-20
